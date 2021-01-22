@@ -35,6 +35,30 @@
       "body": "dahjafjlkfda dfsajkldfasjk asdffdas",
       "author": "mario",
       "id": 6
+    },
+    {
+      "title": "jklfsljk",
+      "body": "lkdsl;lj;kdfas",
+      "author": "yoshi",
+      "id": 7
+    },
+    {
+      "title": "Redirect test",
+      "body": "testing!",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "Redirect test #2",
+      "body": "Hello!",
+      "author": "yoshi",
+      "id": 9
+    },
+    {
+      "title": "Hello friends, again",
+      "body": "Praesent congue erat at massa. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.\n\nVestibulum volutpat pretium libero. Etiam iaculis nunc ac metus.",
+      "author": "yoshi",
+      "id": 10
     }
   ]
 }
